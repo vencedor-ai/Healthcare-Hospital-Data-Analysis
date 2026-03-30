@@ -1,0 +1,17 @@
+Problem Statement
+Healthcare Data Analysis Power BI project
+A Nigerian-Based Healthcare organization wants us to create a sales dashboard showing information of YTD Waitlist and generate
+insights  for below scenarios:
+
+1.Create a KPI Banner showing YTD Patient, PYTD Patient, YTD Inpatient,YTD Outpatient, YTD Day Case
+2.Find YOY growth for each KPI above.
+3.Find PYTD Day Case, PYTD Inpatient and PYTD Outpatient
+4.Find the YTD Patient,PYTD Patient,YOY Patient growth for different Patient Age category using a table chart.
+5.Find Total Waitlist patient case type
+6.Find the Mean, Median for different patient case_type using table chart
+
+
+Deliverables
+1. Prepare a comprehensive report in a PowerPoint highlighting the Key findings.
+2. Explain the business impact of your findings and how they can inform decision-making
+3. Propose at least two strategic actions based on your analysis that could help improve business outcomes.
